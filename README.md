@@ -53,13 +53,25 @@ CodeAlpha_EmailExtracter/
 │── LICENSE
 
 ## Screenshots
-Add screenshots of your UI here (index page + results page) to showcase the design.
+
+Upload file here
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f4acd0bc-2107-42de-96a8-4f9d6856366a" />
+
+----
+
+Showing Extracted Emails
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/59f4fe60-3cb7-4d1f-836f-781e29bb6f48" />
+
+----
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
 ## License
-This project is licensed under the MIT License — feel free to use and adapt it.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 Developed during CodeAlpha Python Internship
@@ -70,3 +82,4 @@ Flask for lightweight backend development
 
 git clone https://github.com/Mairaarshad19/CodeAlpha_EmailExtracter.git
 cd CodeAlpha_EmailExtracter
+
