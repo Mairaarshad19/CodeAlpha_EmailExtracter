@@ -81,5 +81,5 @@ Flask for lightweight backend development
 ---
 
 git clone https://github.com/Mairaarshad19/CodeAlpha_EmailExtracter.git
-cd CodeAlpha_EmailExtracter
+
 
