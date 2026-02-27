@@ -56,13 +56,15 @@ CodeAlpha_EmailExtracter/
 
 Upload file here
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f4acd0bc-2107-42de-96a8-4f9d6856366a" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e545ae76-0b60-492e-bd01-23e5ae9b7700" />
+
 
 ----
 
 Showing Extracted Emails
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/59f4fe60-3cb7-4d1f-836f-781e29bb6f48" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/44b34d3b-b0b9-460f-b02d-862fd10f0112" />
+
 
 ----
 
@@ -81,5 +83,6 @@ Flask for lightweight backend development
 ---
 
 git clone https://github.com/Mairaarshad19/CodeAlpha_EmailExtracter.git
+
 
 
